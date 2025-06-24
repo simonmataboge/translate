@@ -348,6 +348,18 @@ font-size: 20px;
         width: 440px;
     }
 }
+#services .contents img
+{
+	height: 50px;
+	width: 50px;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+.contents p
+{
+	margin-left: 40px;
+	margin-top: -70px;
+}
 
 @media screen and (max-width:1000px ) {
     .issues {
